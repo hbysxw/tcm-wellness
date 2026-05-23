@@ -4,9 +4,15 @@ description: "The coating on your tongue reflects your digestive health and the 
 icon: "⬜"
 tags: ["tongue", "coating", "digestion", "diagnosis"]
 order: 3
+cover: "/images/tongue-coating.jpg"
 ---
 
 ## Understanding Tongue Coating
+
+<div class="my-8 rounded-xl overflow-hidden shadow-md">
+  <img src="/images/tongue-coating.jpg" alt="Tongue coating patterns in TCM diagnosis" class="w-full h-56 sm:h-72 object-cover" />
+  <p class="text-xs text-text-muted text-center py-2.5 bg-gray-50 italic">The tongue coating reflects your digestive health and changes throughout the day</p>
+</div>
 
 In TCM, the tongue coating (she tai) is formed by the upward rising of digestive Qi and fluids. It reflects the state of your **Stomach and Spleen** — your digestive system — as well as the presence of external pathogens.
 
@@ -92,3 +98,8 @@ Your coating will naturally change:
 ## Coating vs. Body Color
 
 Remember: the tongue **body** tells you about the chronic, underlying state. The **coating** tells you about the acute, current condition. They must be read together.
+
+---
+*This article is for educational purposes only and does not constitute medical advice. Always consult a qualified healthcare professional before making changes to your health regimen.*
+
+

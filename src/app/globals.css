@@ -6,10 +6,14 @@
   --color-primary-light: #E8F5EE;
   --color-accent: #C73B3B;
   --color-accent-gold: #C9A84C;
+  --color-accent-gold-light: #F5EDD6;
   --color-bg-warm: #F9F6F0;
   --color-bg-card: #FFFFFF;
+  --color-bg-cream: #FDFCF9;
   --color-text-body: #2D2D2D;
   --color-text-muted: #6B6B6B;
+  --color-overlay: rgba(0,0,0,0.4);
+  --color-overlay-light: rgba(0,0,0,0.15);
   --font-serif: "Playfair Display", Georgia, serif;
   --font-sans: "Inter", system-ui, sans-serif;
 }
@@ -22,8 +26,165 @@ body {
 
 .prose h1, .prose h2, .prose h3 {
   font-family: var(--font-serif);
+  color: var(--color-text-body);
 }
 
 .prose a {
   color: var(--color-primary);
+  font-weight: 500;
+}
+
+.prose img {
+  border-radius: 0.75rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.prose blockquote {
+  border-left-color: var(--color-primary);
+  background: var(--color-primary-light);
+  padding: 1rem 1.5rem;
+  border-radius: 0 0.5rem 0.5rem 0;
+  font-style: italic;
+}
+
+.prose table {
+  border-collapse: separate;
+  border-spacing: 0;
+  overflow: hidden;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
+.prose th {
+  background: var(--color-primary);
+  color: white;
+  font-weight: 600;
+  padding: 0.75rem 1rem;
+}
+
+.prose td {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.prose tr:nth-child(even) td {
+  background: #fafaf8;
+}
+
+/* ===== Component Design Tokens ===== */
+
+/* Card defaults */
+.card {
+  background: var(--color-bg-card);
+  border-radius: 0.75rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  border: 1px solid #e5e7eb;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+.card:hover {
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+  transform: translateY(-2px);
+  border-color: #d1d5db;
+}
+
+/* Image overlay gradient for hero sections */
+.hero-overlay {
+  background: linear-gradient(
+    to bottom,
+    rgba(0,0,0,0.1) 0%,
+    rgba(0,0,0,0.5) 70%,
+    rgba(0,0,0,0.7) 100%
+  );
+}
+
+/* Section decorative divider */
+.section-divider::after {
+  content: '';
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: var(--color-accent-gold);
+  margin: 0.75rem auto 0;
+  border-radius: 2px;
+}
+
+/* Article card with cover image */
+.article-card-cover {
+  position: relative;
+  overflow: hidden;
+  border-radius: 0.75rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  transition: all 0.3s ease;
+  aspect-ratio: 16 / 9;
+}
+.article-card-cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+.article-card-cover:hover {
+  box-shadow: 0 10px 25px rgba(0,0,0,0.12);
+}
+.article-card-cover:hover img {
+  transform: scale(1.05);
+}
+.article-card-cover .card-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 1.25rem;
+  background: linear-gradient(to top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 70%, transparent 100%);
+}
+
+/* Category header with background image */
+.category-header {
+  position: relative;
+  overflow: hidden;
+  border-radius: 1rem;
+  min-height: 280px;
+}
+.category-header img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.category-header .overlay-bg {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to right, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.2) 100%);
+}
+.category-header .content {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2rem 3rem;
+  min-height: 280px;
+}
+
+/* Animation keyframes */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-up {
+  animation: fadeInUp 0.6s ease-out forwards;
+}
+
+/* Image caption */
+.img-caption {
+  font-size: 0.75rem;
+  color: var(--color-text-muted);
+  text-align: center;
+  padding: 0.5rem;
+  background: #f9fafb;
+  border-radius: 0 0 0.5rem 0.5rem;
 }

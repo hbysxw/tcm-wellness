@@ -4,9 +4,13 @@ description: "Traditional Chinese Medicine teaches that eating with the seasons 
 icon: "🗓️"
 tags: ["seasonal", "food", "diet", "wellness", "prevention"]
 order: 2
+cover: "/images/green-tea.jpg"
 ---
 
-## Why Seasonal Eating Matters
+## Why Seasonal Eating Matters<div class="my-6 rounded-lg overflow-hidden shadow-sm">
+  <img src="/images/green-tea.jpg" alt="Seasonal tea and TCM dietary therapy" class="w-full h-48 sm:h-64 object-cover" style="object-position:center 60%"/>
+  <p class="text-xs text-text-muted text-center py-2 bg-gray-50">Seasonal eating is a cornerstone of TCM preventive health</p>
+</div>
 
 In TCM, humans are part of nature. Just as the environment changes through the year, your body's needs shift with each season. Eating seasonal, locally available foods is one of the most powerful preventive health practices.
 
@@ -96,3 +100,7 @@ In TCM, there is a fifth season — late summer (Indian summer) — associated w
 ## A Simple Rule
 
 If you do nothing else, follow this: in any season, **eat what grows naturally in your area at that time.** A vegetable that grows in winter (kale, cabbage) is naturally warming. A fruit that grows in summer (watermelon) is naturally cooling. Nature designed it this way.
+
+---
+*This article is for educational purposes only and does not constitute medical advice. Always consult a qualified healthcare professional before making changes to your health regimen.*
+

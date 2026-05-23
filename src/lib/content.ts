@@ -13,6 +13,7 @@ export interface PostData {
   category: string;
   tags: string[];
   icon: string;
+  cover: string;
   readingTime: number;
   contentHtml: string;
   order?: number;
@@ -95,6 +96,7 @@ export function getPostData(category: string, slug: string): PostData | null {
     category,
     tags: data.tags || [],
     icon: data.icon || '??',
+    cover: data.cover || '',
     readingTime,
     contentHtml,
     order: data.order,

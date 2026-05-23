@@ -1,12 +1,18 @@
----
+Ôªø---
 title: "The 9 TCM Body Constitution Types: Which One Are You?"
-description: "Discover the nine body constitution types in Traditional Chinese Medicine °™ from Balanced to Qi Deficient to Damp-Heat °™ and how each one affects your health."
+description: "Discover the nine body constitution types in Traditional Chinese Medicine ‚Äî from Balanced to Qi Deficient to Damp-Heat ‚Äî and how each one affects your health."
 icon: "??"
 tags: ["constitution", "body type", "assessment", "quiz"]
 order: 6
+cover: "/images/constitution-types.jpg"
 ---
 
 ## What Is a Body Constitution?
+
+<div class="my-8 rounded-xl overflow-hidden shadow-md">
+  <img src="/images/constitution-types.jpg" alt="TCM body constitution types chart" class="w-full h-56 sm:h-72 object-cover" />
+  <p class="text-xs text-text-muted text-center py-2.5 bg-gray-50 italic">Understanding your constitution type helps you make personalized health choices</p>
+</div>
 
 In Traditional Chinese Medicine, your **body constitution** is your inherited and acquired pattern of physical and functional tendencies. It is the baseline state of your Yin-Yang balance, Qi level, and organ health.
 
@@ -14,84 +20,91 @@ Understanding your constitution type is like having a **user manual for your bod
 
 ## The 9 Types
 
-### 1. Balanced (∆Ω∫Õ÷ )
-
-**The ideal state.** Balanced constitutions have strong Qi, harmonious Yin-Yang, and smooth organ function.
-
-- **Characteristics**: Steady energy, good sleep, even temperament, healthy appetite
-- **Susceptibility**: Rarely gets sick, recovers quickly
-- **Advice**: Maintain your lifestyle; don't overindulge in any extreme
-
-### 2. Qi Deficient (∆¯–È÷ )
-
-**The tired type.** Qi is insufficient to power daily functions.
-
-- **Characteristics**: Fatigue, low voice, shortness of breath on exertion, weak immunity, spontaneous sweating
-- **Susceptibility**: Frequent colds, organ prolapse, chronic fatigue
-- **Advice**: Eat cooked, warm foods; avoid overexertion; strengthen the Spleen and Lung
-
-### 3. Yang Deficient (—Ù–È÷ )
-
-**The cold type.** Warming energy (Yang Qi) is insufficient.
-
-- **Characteristics**: Cold hands and feet, aversion to cold, pale complexion, loose stools, low libido
-- **Susceptibility**: Cold-natured diseases, digestive weakness, lower back pain
-- **Advice**: Avoid raw/cold foods; eat warming foods (ginger, lamb, cinnamon); gentle exercise
-
-### 4. Yin Deficient (“ı–È÷ )
-
-**The dry and heated type.** Cooling, moistening Yin is insufficient.
-
-- **Characteristics**: Hot palms and soles, night sweats, dry mouth/throat, thin body type, irritability
-- **Susceptibility**: Insomnia, dry skin, constipation, menopausal symptoms
-- **Advice**: Avoid spicy and drying foods; eat moistening foods (pear, tofu, sesame); avoid overwork
-
-### 5. Phlegm-Damp (Ãµ ™÷ )
-
-**The heavy type.** Dampness accumulates due to Spleen weakness.
-
-- **Characteristics**: Overweight tendency, feeling heavy, foggy thinking, sticky mouth, puffy face
-- **Susceptibility**: Metabolic syndrome, high cholesterol, sleep apnea, joint pain
-- **Advice**: Limit sugar, dairy, and fried foods; eat light, drying foods (radish, barley, mushroom); consistent exercise
-
-### 6. Damp-Heat ( ™»»÷ )
-
-**The sticky and hot type.** Dampness combined with heat creates a "humid summer" inside the body.
-
-- **Characteristics**: Oily skin and hair, acne, bitter taste in mouth, heavy body, yellow/greasy tongue coating
-- **Susceptibility**: Skin infections, urinary tract issues, liver/gallbladder problems
-- **Advice**: Avoid greasy, spicy, and sweet foods; eat cooling-bitter foods (bitter melon, cucumber, green tea)
-
-### 7. Blood Stasis (—™ˆ÷ )
-
-**The stagnation type.** Blood flow is sluggish, creating stagnation.
-
-- **Characteristics**: Dark circles, purple/dusky complexion, stabbing pains, bruise easily, spider veins
-- **Susceptibility**: Cardiovascular issues, chronic pain, fibroids, varicose veins
-- **Advice**: Regular movement; warming foods; avoid cold; foods that move blood (turmeric, hawthorn, ginger)
-
-### 8. Qi Stagnant (∆¯”Ù÷ )
-
-**The stressed type.** Qi flow is blocked, especially the Liver's free-flowing function.
-
-- **Characteristics**: Mood swings, frequent sighing, depression or anxiety, PMS, breast tenderness, lump-in-throat sensation
-- **Susceptibility**: Depression, anxiety disorders, thyroid issues, digestive spasms
-- **Advice**: Express emotions; exercise regularly; sour foods to gather Qi (lemon, plum); acupressure Liver 3
-
-### 9. Allergic/Inherited (ÃÿŸ˜÷ )
-
-**The sensitive type.** A special constitution with immune hypersensitivity.
-
-- **Characteristics**: Allergies (seasonal or food), asthma, eczema, sensitive skin
-- **Susceptibility**: Allergic reactions, autoimmune tendencies
-- **Advice**: Avoid known triggers; strengthen Lung and Spleen; immune-supporting herbs; seasonal prevention
-
+<div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 my-6">
+  <div class="bg-bg-card rounded-lg p-4 shadow-sm border border-gray-100">
+    <div class="flex items-center gap-2 mb-2">
+      <span class="text-xl">‚òØÔ∏è</span>
+      <h4 class="font-semibold text-sm">Balanced</h4>
+    </div>
+    <p class="text-xs text-text-muted mb-2">Steady energy, good sleep, even temperament. Rarely sick.</p>
+    <span class="text-xs text-primary font-medium">The ideal state</span>
+  </div>
+  <div class="bg-bg-card rounded-lg p-4 shadow-sm border border-gray-100">
+    <div class="flex items-center gap-2 mb-2">
+      <span class="text-xl">üí®</span>
+      <h4 class="font-semibold text-sm">Qi Deficient</h4>
+    </div>
+    <p class="text-xs text-text-muted mb-2">Fatigue, weak voice, low immunity. Feels worse after exertion.</p>
+    <span class="text-xs text-primary font-medium">The tired type</span>
+  </div>
+  <div class="bg-bg-card rounded-lg p-4 shadow-sm border border-gray-100">
+    <div class="flex items-center gap-2 mb-2">
+      <span class="text-xl">‚ùÑÔ∏è</span>
+      <h4 class="font-semibold text-sm">Yang Deficient</h4>
+    </div>
+    <p class="text-xs text-text-muted mb-2">Cold hands/feet, aversion to cold, low libido.</p>
+    <span class="text-xs text-primary font-medium">The cold type</span>
+  </div>
+  <div class="bg-bg-card rounded-lg p-4 shadow-sm border border-gray-100">
+    <div class="flex items-center gap-2 mb-2">
+      <span class="text-xl">üî•</span>
+      <h4 class="font-semibold text-sm">Yin Deficient</h4>
+    </div>
+    <p class="text-xs text-text-muted mb-2">Night sweats, dry mouth, hot palms, irritability.</p>
+    <span class="text-xs text-primary font-medium">The dry-heat type</span>
+  </div>
+  <div class="bg-bg-card rounded-lg p-4 shadow-sm border border-gray-100">
+    <div class="flex items-center gap-2 mb-2">
+      <span class="text-xl">üåßÔ∏è</span>
+      <h4 class="font-semibold text-sm">Phlegm-Damp</h4>
+    </div>
+    <p class="text-xs text-text-muted mb-2">Overweight tendency, brain fog, heavy feeling.</p>
+    <span class="text-xs text-primary font-medium">The heavy type</span>
+  </div>
+  <div class="bg-bg-card rounded-lg p-4 shadow-sm border border-gray-100">
+    <div class="flex items-center gap-2 mb-2">
+      <span class="text-xl">üå°Ô∏è</span>
+      <h4 class="font-semibold text-sm">Damp-Heat</h4>
+    </div>
+    <p class="text-xs text-text-muted mb-2">Oily skin, acne, bitter taste, heavy + hot.</p>
+    <span class="text-xs text-primary font-medium">The sticky-hot type</span>
+  </div>
+  <div class="bg-bg-card rounded-lg p-4 shadow-sm border border-gray-100">
+    <div class="flex items-center gap-2 mb-2">
+      <span class="text-xl">ü©∏</span>
+      <h4 class="font-semibold text-sm">Blood Stasis</h4>
+    </div>
+    <p class="text-xs text-text-muted mb-2">Dark circles, stabbing pains, easy bruising.</p>
+    <span class="text-xs text-primary font-medium">The stagnation type</span>
+  </div>
+  <div class="bg-bg-card rounded-lg p-4 shadow-sm border border-gray-100">
+    <div class="flex items-center gap-2 mb-2">
+      <span class="text-xl">üò§</span>
+      <h4 class="font-semibold text-sm">Qi Stagnant</h4>
+    </div>
+    <p class="text-xs text-text-muted mb-2">Mood swings, frequent sighing, PMS, anxiety.</p>
+    <span class="text-xs text-primary font-medium">The stressed type</span>
+  </div>
+  <div class="bg-bg-card rounded-lg p-4 shadow-sm border border-gray-100">
+    <div class="flex items-center gap-2 mb-2">
+      <span class="text-xl">ü§ß</span>
+      <h4 class="font-semibold text-sm">Sensitive (Te Bing)</h4>
+    </div>
+    <p class="text-xs text-text-muted mb-2">Allergies, asthma, eczema, immune hypersensitivity.</p>
+    <span class="text-xs text-primary font-medium">The sensitive type</span>
+  </div>
+</div>
 ## Can Your Constitution Change?
 
-Yes and no. Your **Prenatal Jing** (inherited constitution) is fixed. However, your **Postnatal Qi** °™ the constitution you build through diet, lifestyle, and environment °™ can be consciously shaped. Most people have a **mixed constitution**, with one or two dominant patterns.
+Yes and no. Your **Prenatal Jing** (inherited constitution) is fixed. However, your **Postnatal Qi** ‚Äî the constitution you build through diet, lifestyle, and environment ‚Äî can be consciously shaped. Most people have a **mixed constitution**, with one or two dominant patterns.
 
 ## How to Determine Your Type
 
 Take our **Body Constitution Quiz** for a personalized assessment. The quiz uses the standardized Chinese Medicine questionnaire adapted for a Western audience. Your results will include tailored recommendations for diet, exercise, and lifestyle based on your dominant pattern.
 
 > Take the quiz here: [Body Constitution Quiz](/quiz)
+
+---
+*This article is for educational purposes only and does not constitute medical advice. Always consult a qualified healthcare professional before making changes to your health regimen.*
+
+

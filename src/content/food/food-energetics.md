@@ -4,9 +4,15 @@ description: "In TCM, every food has a thermal nature and flavor that affects yo
 icon: "🌡️"
 tags: ["food", "energetics", "nutrition", "balance"]
 order: 1
+cover: "/images/food-medicine.jpg"
 ---
 
 ## What Is Food Energetics?
+
+<div class="my-8 rounded-xl overflow-hidden shadow-md">
+  <img src="/images/food-medicine.jpg" alt="Food as medicine in TCM energetics" class="w-full h-56 sm:h-72 object-cover" />
+  <p class="text-xs text-text-muted text-center py-2.5 bg-gray-50 italic">Every food has a thermal nature — warming, cooling, or neutral — that affects your body</p>
+</div>
 
 In TCM, every food has an **energetic signature** — a thermal nature (how it affects body temperature) and a flavor (how it moves Qi in the body). This is different from nutritional science, which focuses on calories, macros, and vitamins.
 
@@ -79,3 +85,8 @@ One of the simplest ways to apply food energetics is to eat with the seasons:
 | Summer | Cooling, hydrating | Cucumber, melon, mint, mung beans |
 | Autumn | Neutral, moistening | Pear, apple, white fungus, sesame |
 | Winter | Warming, building | Root veg, lamb, ginger, cinnamon |
+
+---
+*This article is for educational purposes only and does not constitute medical advice. Always consult a qualified healthcare professional before making changes to your health regimen.*
+
+

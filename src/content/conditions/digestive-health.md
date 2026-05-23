@@ -4,9 +4,15 @@ description: "Learn how Traditional Chinese Medicine approaches IBS, bloating, a
 icon: "🫃"
 tags: ["digestion", "IBS", "spleen", "bloating", "gut health"]
 order: 3
+cover: "/images/food-healing.jpg"
 ---
 
 ## The TCM Digestive System
+
+<div class="my-8 rounded-xl overflow-hidden shadow-md">
+  <img src="/images/food-healing.jpg" alt="Healing foods for digestive health in TCM" class="w-full h-56 sm:h-72 object-cover" />
+  <p class="text-xs text-text-muted text-center py-2.5 bg-gray-50 italic">Warm, cooked foods are the foundation of digestive healing in TCM</p>
+</div>
 
 In Western medicine, digestion is a mechanical and chemical process. In TCM, it is powered by the **Spleen's transforming and transporting function** — a metabolic energy that extracts Qi from food and sends it where it needs to go.
 
@@ -89,3 +95,8 @@ A "stuck" digestive system with inflammation.
 - **Stomach 36 (Zusanli)** — 4 finger-widths below the kneecap, outside the shin bone. The master point for digestive strength.
 - **Conception Vessel 12 (Zhongwan)** — Midway between the navel and the bottom of the sternum. For bloating and acid reflux.
 - **Spleen 4 (Gongsun)** — On the inner side of the foot, in the arch. For chronic digestive issues.
+
+---
+*This article is for educational purposes only and does not constitute medical advice. Always consult a qualified healthcare professional before making changes to your health regimen.*
+
+

@@ -4,9 +4,15 @@ description: "The shape of your tongue reveals fluid balance, blood supply, and 
 icon: "📐"
 tags: ["tongue", "tongue shape", "fluid", "diagnosis"]
 order: 4
+cover: "/images/tongue-teeth-marks.jpg"
 ---
 
 ## Why Tongue Shape Matters
+
+<div class="my-8 rounded-xl overflow-hidden shadow-md">
+  <img src="/images/tongue-teeth-marks.jpg" alt="Teeth marks on tongue indicating Spleen Qi deficiency" class="w-full h-56 sm:h-72 object-cover" />
+  <p class="text-xs text-text-muted text-center py-2.5 bg-gray-50 italic">Teeth indentations on the tongue edges are a classic sign of Spleen weakness</p>
+</div>
 
 The shape and contour of your tongue body provides valuable clues about your body's fluid balance, nutritional state, and chronic patterns. Unlike color (which can change daily), shape changes more slowly and reflects your **constitutional state**.
 
@@ -90,3 +96,8 @@ Always interpret shape findings together with color and coating:
 | Thin | Red | None or peeled | Yin Deficiency with Empty Heat |
 | Swollen | Red | Yellow, greasy | Damp-Heat |
 | Thin, cracked | Pale red | Thin, white | Qi and Blood Deficiency |
+
+---
+*This article is for educational purposes only and does not constitute medical advice. Always consult a qualified healthcare professional before making changes to your health regimen.*
+
+

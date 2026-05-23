@@ -4,9 +4,15 @@ description: "Chronic fatigue through the lens of TCM. Learn how Qi deficiency, 
 icon: "⚡"
 tags: ["fatigue", "Qi deficiency", "energy", "spleen", "kidney"]
 order: 4
+cover: "/images/healthy-bowl.jpg"
 ---
 
 ## The TCM Understanding of Fatigue
+
+<div class="my-8 rounded-xl overflow-hidden shadow-md">
+  <img src="/images/healthy-bowl.jpg" alt="Nourishing food bowl for energy restoration" class="w-full h-56 sm:h-72 object-cover" />
+  <p class="text-xs text-text-muted text-center py-2.5 bg-gray-50 italic">Rebuilding Qi requires consistent nourishment and digestive rest</p>
+</div>
 
 In Western medicine, chronic fatigue is a symptom without a clear cause. TCM has a nuanced understanding: fatigue always reflects an **insufficiency of Qi** — but the root cause of that insufficiency varies from person to person.
 
@@ -92,3 +98,8 @@ Sometimes you have enough Qi, but it is stuck. Stress locks your energy in a sta
 ## Warning Signs
 
 If fatigue is accompanied by unexplained weight loss, fever, night sweats, or swollen lymph nodes, consult a medical doctor to rule out underlying conditions before pursuing TCM treatment.
+
+---
+*This article is for educational purposes only and does not constitute medical advice. Always consult a qualified healthcare professional before making changes to your health regimen.*
+
+

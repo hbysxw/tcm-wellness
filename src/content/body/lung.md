@@ -1,12 +1,18 @@
----
+ï»¿---
 title: "The Lung in Chinese Medicine: The Shield of Qi"
 description: "The Lung governs Qi and respiration, defends against pathogens, and processes grief. Learn how to strengthen your Lung for better immunity."
 icon: "??"
 tags: ["lung", "five organs", "Zang", "immunity", "Qi"]
 order: 4
+cover: "/images/yoga-wellness.jpg"
 ---
 
 ## The Lung in TCM vs. Western Medicine
+
+<div class="my-8 rounded-xl overflow-hidden shadow-md">
+  <img src="/images/yoga-wellness.jpg" alt="Yoga and breathing exercises for Lung health" class="w-full h-56 sm:h-72 object-cover" />
+  <p class="text-xs text-text-muted text-center py-2.5 bg-gray-50 italic">Deep breathing practices strengthen the Lung and Wei Qi (immune defense)</p>
+</div>
 
 The Western Lung is a respiratory organ for gas exchange. TCM gives the Lung a much wider scope:
 
@@ -21,7 +27,7 @@ The Western Lung is a respiratory organ for gas exchange. TCM gives the Lung a m
 
 ### 1. Governs Qi and Respiration
 
-The Lung draws in **clear Qi (air)** from the environment and combines it with **Gu Qi (food essence)** from the Spleen to form **Zong Qi (gathering Qi)** ¡ª the energy that powers your chest, voice, and circulation. When Lung Qi is strong, your breathing is deep, your voice is clear, and your energy is steady.
+The Lung draws in **clear Qi (air)** from the environment and combines it with **Gu Qi (food essence)** from the Spleen to form **Zong Qi (gathering Qi)** â€” the energy that powers your chest, voice, and circulation. When Lung Qi is strong, your breathing is deep, your voice is clear, and your energy is steady.
 
 ### 2. Descends and Disperses
 
@@ -29,7 +35,7 @@ The Lung sends Qi downward (descending) to the Kidneys and outward (dispersing) 
 
 ### 3. The Shield of the Body
 
-The Lung controls the skin and sweat pores, acting as the body's first line of defense against external pathogens (called **Wind** in TCM). This is why TCM says the Lung is the "tender organ" ¡ª it is the first to be attacked by colds and flus.
+The Lung controls the skin and sweat pores, acting as the body's first line of defense against external pathogens (called **Wind** in TCM). This is why TCM says the Lung is the "tender organ" â€” it is the first to be attacked by colds and flus.
 
 ## Signs of Lung Imbalance
 
@@ -43,19 +49,28 @@ The Lung controls the skin and sweat pores, acting as the body's first line of d
 
 ## Lung and Emotions
 
-The Lung is connected to **grief and sadness**. The breathing pattern of a grieving person ¡ª shallow, sighing, constricted ¡ª reflects Lung Qi disturbance. This is not pathological; it is natural. But prolonged, unresolved grief weakens Lung Qi over time.
+The Lung is connected to **grief and sadness**. The breathing pattern of a grieving person â€” shallow, sighing, constricted â€” reflects Lung Qi disturbance. This is not pathological; it is natural. But prolonged, unresolved grief weakens Lung Qi over time.
 
 Conversely, deep breathing (a hallmark of Qigong and meditation) strengthens the Lung and helps process grief.
 
+### Related Organ
+
+Learn about the [Kidney](/article/body/kidney) in TCM.
+
 ## Self-Care for Lung Health
 
-- **Breathwork** ¡ª Deep, slow diaphragmatic breathing for 5 minutes daily strengthens Lung Qi
-- **Nourish Lung Yin** ¡ª Pear, white fungus (snow fungus), almond, sesame, honey
-- **Moisturizing foods** ¡ª Soy milk, tofu, apples, oats
-- **Seasonal care** ¡ª Autumn is the Lung's season; protect yourself from dry wind and sudden temperature changes
-- **Avoid** ¡ª Smoking, dry environments, excessive air conditioning
-- **Acupressure point** ¡ª Lung 1 (Zhongfu, below the collarbone) for cough and chest tightness
+- **Breathwork** â€” Deep, slow diaphragmatic breathing for 5 minutes daily strengthens Lung Qi
+- **Nourish Lung Yin** â€” Pear, white fungus (snow fungus), almond, sesame, honey
+- **Moisturizing foods** â€” Soy milk, tofu, apples, oats
+- **Seasonal care** â€” Autumn is the Lung's season; protect yourself from dry wind and sudden temperature changes
+- **Avoid** â€” Smoking, dry environments, excessive air conditioning
+- **Acupressure point** â€” Lung 1 (Zhongfu, below the collarbone) for cough and chest tightness
 
 ## Lung in the Five Elements
 
-The Lung corresponds to the **Metal** element ¡ª associated with autumn, letting go, and boundaries. Just as autumn sheds leaves, the Lung governs the boundary between inner and outer ¡ª the skin. Strong Metal (Lung) supports Water (Kidney) and is supported by Earth (Spleen).
+The Lung corresponds to the **Metal** element â€” associated with autumn, letting go, and boundaries. Just as autumn sheds leaves, the Lung governs the boundary between inner and outer â€” the skin. Strong Metal (Lung) supports Water (Kidney) and is supported by Earth (Spleen).
+
+---
+*This article is for educational purposes only and does not constitute medical advice. Always consult a qualified healthcare professional before making changes to your health regimen.*
+
+

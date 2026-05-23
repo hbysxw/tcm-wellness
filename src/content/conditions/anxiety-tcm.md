@@ -4,9 +4,13 @@ description: "How Traditional Chinese Medicine understands anxiety - as a distur
 icon: "🧠"
 tags: ["anxiety", "Shen", "heart", "stress", "emotions"]
 order: 1
+cover: "/images/peaceful.jpg"
 ---
 
-## Anxiety in TCM vs. Western Medicine
+## Anxiety in TCM vs. Western Medicine<div class="my-6 rounded-lg overflow-hidden shadow-sm">
+  <img src="/images/peaceful.jpg" alt="Calming the mind with TCM" class="w-full h-48 sm:h-64 object-cover"/>
+  <p class="text-xs text-text-muted text-center py-2 bg-gray-50">TCM approaches anxiety by calming the Shen and balancing the underlying organ pattern</p>
+</div>
 
 Western medicine often treats anxiety as a brain chemistry imbalance involving serotonin and GABA. TCM sees anxiety differently — as a disturbance of the **Shen** (spirit/mind) that resides in the Heart, often caused by underlying imbalances in multiple organs.
 
@@ -39,6 +43,11 @@ The Kidney stores willpower and houses fear. Chronic anxiety depletes Kidney Yin
 
 ## TCM Approaches to Anxiety
 
+<div class="my-6 rounded-lg overflow-hidden shadow-sm">
+<img src="/images/acupuncture-points.jpg" alt="Acupuncture points for anxiety" class="w-full h-64 object-cover" />
+<p class="text-xs text-text-muted text-center py-2 bg-gray-50">Acupuncture points like PC6 (Neiguan) and HT7 (Shenmen) calm the Shen</p>
+</div>
+
 ### Acupuncture
 Acupuncture points commonly used for anxiety include:
 
@@ -60,3 +69,7 @@ Popular herbal formulas for anxiety (always consult a qualified herbalist):
 - **Avoid stimulants** — Caffeine, energy drinks, and alcohol all disturb the Shen
 - **Earthing** — Walking barefoot on grass or soil for 10 minutes daily helps ground excess energy
 - **Foods** — Oats, sesame, lily bulb, longan fruit, and chamomile tea all nourish the Heart and calm the Shen
+
+---
+*This article is for educational purposes only and does not constitute medical advice. Always consult a qualified healthcare professional before making changes to your health regimen.*
+

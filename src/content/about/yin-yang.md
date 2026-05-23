@@ -1,12 +1,18 @@
----
+ï»¿---
 title: "Yin and Yang: The Foundation of Balance in Chinese Medicine"
-description: "Understand Yin and Yang theory ¡ª the oldest and most important concept in Traditional Chinese Medicine ¡ª and how it applies to your health."
+description: "Understand Yin and Yang theory â€” the oldest and most important concept in Traditional Chinese Medicine â€” and how it applies to your health."
 icon: "?"
 tags: ["Yin-Yang", "theory", "balance"]
 order: 2
+cover: "/images/five-elements.jpg"
 ---
 
 ## The Big Idea
+
+<div class="my-8 rounded-xl overflow-hidden shadow-md">
+  <img src="/images/five-elements.jpg" alt="Yin Yang balance concept in nature" class="w-full h-56 sm:h-72 object-cover" />
+  <p class="text-xs text-text-muted text-center py-2.5 bg-gray-50 italic">The interplay of Yin and Yang creates the dynamic balance of health</p>
+</div>
 
 Yin and Yang are the two complementary forces that make up everything in the universe. In Traditional Chinese Medicine, health is defined as a dynamic state of balance between these two forces. Illness arises when one becomes excessive or deficient.
 
@@ -16,7 +22,7 @@ Yin and Yang are the two complementary forces that make up everything in the uni
 
 ### 1. Opposition
 
-Yin and Yang are opposites ¡ª but they define each other. Without night, there is no day. Without rest, there is no activity. In the body, contraction (Yin) balances expansion (Yang).
+Yin and Yang are opposites â€” but they define each other. Without night, there is no day. Without rest, there is no activity. In the body, contraction (Yin) balances expansion (Yang).
 
 ### 2. Interdependence
 
@@ -61,8 +67,13 @@ Under extreme conditions, Yin can turn into Yang and vice versa. A severe cold (
 
 ## A Practical Example
 
-When a patient comes in with **insomnia**, a TCM practitioner asks: is this Yin deficiency (not enough cooling, nourishing energy to calm the mind) or Yang excess (too much heat or activity keeping the mind racing)? The treatment differs completely ¡ª one needs nourishing, the other needs cooling.
+When a patient comes in with **insomnia**, a TCM practitioner asks: is this Yin deficiency (not enough cooling, nourishing energy to calm the mind) or Yang excess (too much heat or activity keeping the mind racing)? The treatment differs completely â€” one needs nourishing, the other needs cooling.
 
 ## Key Takeaway
 
 Balance is not static. Your Yin-Yang state changes with seasons, stress, diet, sleep, and age. The goal of TCM is not to achieve "perfect balance" but to build your body's resilience in maintaining equilibrium as conditions change.
+
+---
+*This article is for educational purposes only and does not constitute medical advice. Always consult a qualified healthcare professional before making changes to your health regimen.*
+
+

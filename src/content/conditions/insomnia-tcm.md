@@ -4,9 +4,15 @@ description: "Insomnia in Traditional Chinese Medicine is traced to specific org
 icon: "🌙"
 tags: ["insomnia", "sleep", "Shen", "heart"]
 order: 2
+cover: "/images/yoga-meditation.jpg"
 ---
 
 ## The TCM View of Sleep
+
+<div class="my-8 rounded-xl overflow-hidden shadow-md">
+  <img src="/images/yoga-meditation.jpg" alt="Meditation and relaxation for better sleep" class="w-full h-56 sm:h-72 object-cover" />
+  <p class="text-xs text-text-muted text-center py-2.5 bg-gray-50 italic">TCM approaches insomnia by calming the Shen (spirit) through the Heart</p>
+</div>
 
 In Traditional Chinese Medicine, sleep occurs when the Yang Qi withdraws into the body and the Shen (spirit) returns to the Heart to rest. Insomnia happens when something prevents this natural retreat — either excess Yang (heat/stimulation) keeps the Shen outside, or deficiency fails to anchor it.
 
@@ -84,3 +90,8 @@ Press each point gently for 1-2 minutes before bed:
 
 ### Evening Tea
 A simple calming tea blend: 3-4 jujube dates (pitted), a few goji berries, and a slice of fresh ginger. Simmer for 10 minutes and drink warm one hour before bed.
+
+---
+*This article is for educational purposes only and does not constitute medical advice. Always consult a qualified healthcare professional before making changes to your health regimen.*
+
+

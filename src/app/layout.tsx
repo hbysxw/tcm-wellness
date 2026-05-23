@@ -24,13 +24,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet" />
-        {/* Google tag (gtag.js) - replace GA_MEASUREMENT_ID when you have one */}
-        {/*
-        <script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+        {/* Google tag (gtag.js) */}
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-KKR5SXTXV8" />
         <script dangerouslySetInnerHTML={{
-          __html: 'window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag("js", new Date()); gtag("config", "GA_MEASUREMENT_ID");'
+          __html: 'window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag("js", new Date()); gtag("config", "G-KKR5SXTXV8");'
         }} />
-        */}
+        {/* AdSense */}
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8636894949117468" crossOrigin="anonymous" />
       </head>
       <body className="min-h-screen flex flex-col bg-bg-warm text-text-body font-sans antialiased">
         <Header />

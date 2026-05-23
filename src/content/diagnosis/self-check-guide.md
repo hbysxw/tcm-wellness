@@ -4,9 +4,15 @@ description: "Start your day with a simple tongue self-examination. Track change
 icon: "📋"
 tags: ["tongue", "self-check", "daily routine"]
 order: 5
+cover: "/images/tongue-guide.jpg"
 ---
 
 ## The 2-Minute Tongue Check
+
+<div class="my-8 rounded-xl overflow-hidden shadow-md">
+  <img src="/images/tongue-guide.jpg" alt="Tongue self-check guide for morning routine" class="w-full h-56 sm:h-72 object-cover" />
+  <p class="text-xs text-text-muted text-center py-2.5 bg-gray-50 italic">Make tongue observation a part of your daily wellness routine</p>
+</div>
 
 Incorporating tongue observation into your morning routine takes just two minutes and can reveal a tremendous amount about your health. Here is a simple protocol.
 
@@ -91,3 +97,8 @@ Consult a healthcare professional if you notice:
 - Tongue deviation (tongue points to one side when sticking out)
 
 > **A note on tongue diagnosis**: This self-check is for educational awareness, not medical diagnosis. TCM tongue diagnosis is a sophisticated skill requiring years of training. Use these observations as conversation starters with your healthcare provider.
+
+---
+*This article is for educational purposes only and does not constitute medical advice. Always consult a qualified healthcare professional before making changes to your health regimen.*
+
+

@@ -4,9 +4,15 @@ description: "Easy, nourishing recipes from Traditional Chinese Medicine. These 
 icon: "🍵"
 tags: ["recipes", "congee", "tea", "soup", "cooking"]
 order: 3
+cover: "/images/healthy-bowl.jpg"
 ---
 
 ## Healing Foods from the TCM Kitchen
+
+<div class="my-8 rounded-xl overflow-hidden shadow-md">
+  <img src="/images/healthy-bowl.jpg" alt="TCM healing recipes bowl" class="w-full h-56 sm:h-72 object-cover" />
+  <p class="text-xs text-text-muted text-center py-2.5 bg-gray-50 italic">Simple, nourishing recipes that support your body's natural healing</p>
+</div>
 
 TCM dietary therapy is not about exotic ingredients or complicated preparations. The most powerful healing foods are simple, gentle, and made from everyday ingredients.
 
@@ -120,3 +126,8 @@ A savory congee variant that warms the Stomach and settles nausea.
 ## A Note on TCM Cooking
 
 The most important principle in TCM cooking: **cook with intention**. Eat in a calm environment, chew thoroughly, and express gratitude for your food. The energetic quality of your meal is influenced by the state of mind in which it is prepared and consumed.
+
+---
+*This article is for educational purposes only and does not constitute medical advice. Always consult a qualified healthcare professional before making changes to your health regimen.*
+
+
