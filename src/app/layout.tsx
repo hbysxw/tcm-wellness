@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'TCM Wellness — Your Guide to Traditional Chinese Medicine',
   description: 'Explore the ancient wisdom of Traditional Chinese Medicine. Learn about the Five Organs, tongue diagnosis, body constitutions, and natural remedies.',
   keywords: ['Traditional Chinese Medicine', 'TCM', 'acupuncture', 'Chinese herbs', 'five elements', 'tongue diagnosis', 'wellness'],
-  verification: { google: 'YOUR_GOOGLE_SITE_VERIFICATION' },
+  verification: { google: 'google38b650d194b3a99b' },
   openGraph: {
     title: 'TCM Wellness',
     description: 'Your trusted guide to Traditional Chinese Medicine for modern wellness.',
